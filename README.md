@@ -24,27 +24,27 @@ authorized addresses have access to the restricted content.
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/1TFZ56j.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1TFZ56j.png" height="75%" width="75%" />
 <br />
 <br />
  <br/>
-<img src="https://i.imgur.com/GcTknAZ.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GcTknAZ.png" height="75%" width="75%" />
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/4809Wfs.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4809Wfs.png" height="75%" width="75%" />
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/gSwT5Tw.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gSwT5Tw.png" height="75%" width="75%" />
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/KVIyrVU.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KVIyrVU.png" height="75%" width="75%" />
 <br />
 <br />
  <br/>
-<img src="https://i.imgur.com/dHBmOl5.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dHBmOl5.png" height="75%" width="75%" />
 </p>
 
 <!--
